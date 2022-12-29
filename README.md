@@ -1,2 +1,2 @@
-# basic-calcualotr-made-be-bhushan
+# basic-calcualotr-made-by-bhushan
 calculator
